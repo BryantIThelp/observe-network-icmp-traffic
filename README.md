@@ -58,13 +58,16 @@ In this tutorial, we observe icmp and network traffic to and from Azure Virtual 
 
 
 
-
+2. Go back to the Microsoft Azure Home screen 2.a Click on Virtual machines
 ![ICMP](https://github.com/user-attachments/assets/ed3986c9-63c3-4ae2-9a61-7830c3a6cf89)
 
+2.b Click on the linux virtual machine 2.c Copy the Private IP Address of the linux virtual machine
 ![ICMP1](https://github.com/user-attachments/assets/d5bb216d-bb22-41d9-803a-d21f6fd78cd1)
 
+2.d Go back into your windows virtual machine and type Powershell in the start menu Land click on the Powershell app
 ![ICMP2](https://github.com/user-attachments/assets/54371fac-5328-44a5-9c0a-736b9c453162)
 
+2.e Type icmp inside of wireshark and press enter 2.f Inside of Powershell type ping and press spacebar and to type in in the private IP address of your linux virtual machine (10.0.0.5) and then press enter and then you should start to see the (ping) request/reply between the two virtual machines
 ![ICMP3](https://github.com/user-attachments/assets/12edcdbb-fe45-43b6-a1ca-80d1b3131beb)
 
 
