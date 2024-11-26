@@ -28,7 +28,7 @@ In this tutorial, we observe icmp and network traffic to and from Azure Virtual 
 - Step 3 Open Wireshark to analyze Network traffic
 - Step 4 Open PowerShell to ping the linux virtual machine from within the windows virtual machine and use wireshark to analyze icmp traffic
 
-<h2>Actions and Observations</h2>
+<h2>Installation Steps</h2>
 
 <p>
 
