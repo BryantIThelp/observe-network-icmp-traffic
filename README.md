@@ -2,11 +2,9 @@
 
 </p>
 
-<Inspecting Network and ICMP Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+Inspecting Network and ICMP Traffic Between Azure Virtual Machines</h1>
+In this tutorial, we observe icmp and network traffic to and from Azure Virtual Machines with Wireshark. <br />
 
-
-<h2>Video Demonstration</h2>
 
 
 
@@ -15,7 +13,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Network Protocol (ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
