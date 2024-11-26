@@ -50,10 +50,10 @@ In this tutorial, we observe icmp and network traffic to and from Azure Virtual 
 1.g Go to the start menu in your windows virtual machine and type Wireshark and click on the    Wireshark app
 ![WireShark7](https://github.com/user-attachments/assets/b1c287df-920f-4f5e-b7ea-c55951cc75e4)
 
-1.h Inside of the wireshark network analyzer highlight Ethernet
+1.h Inside of the wireshark network analyzer highlight Ethernet 1.i click on the blue shark fin and now you should be able to see the traffic happening over the Network
 ![WireShark8](https://github.com/user-attachments/assets/a4eace7c-84ef-4c6c-aebc-cee7c6e86ee9)
 
-1.i click on the blue shark fin and now you should be able to see the traffic "happening over the Network
+
 ![WireShark9](https://github.com/user-attachments/assets/b643de53-1252-43ba-8144-62230b304e8e)
 
 
