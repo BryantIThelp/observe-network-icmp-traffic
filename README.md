@@ -16,7 +16,7 @@ In this tutorial, we observe icmp and network traffic to and from Azure Virtual 
 - Network Protocol (ICMP)
 - Wireshark (Protocol Analyzer)
 
-<h2>Installation Steps</h2>
+<h2>Operating Systems Used </h2>
 
 - Windows 10 (22H2)
 - Ubuntu Server 22.04
