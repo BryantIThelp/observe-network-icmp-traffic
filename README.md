@@ -31,25 +31,36 @@ In this tutorial, we observe icmp and network traffic to and from Azure Virtual 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![WireShark](https://github.com/user-attachments/assets/07369448-e383-4db2-b048-6ff9aee47591)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![WireShark2](https://github.com/user-attachments/assets/59ddbdb8-2198-4c40-98a0-c8ce324e23c6)
+
+![WireShark3](https://github.com/user-attachments/assets/cc2727fd-9189-4978-be5e-7b8aa02c5ee5)
+
+![WireShark4](https://github.com/user-attachments/assets/58b55fa9-7a93-496a-8d59-73099c5bb5fb)
+
+![WireShark6](https://github.com/user-attachments/assets/292014f9-bfb0-475a-b006-85514a8ed06c)
+
+![WireShark7](https://github.com/user-attachments/assets/4d860095-bb5c-4d34-a801-44b1f00a5364)
+
+![WireShark8](https://github.com/user-attachments/assets/c8d5ba0e-a7bc-4b05-8ef7-d3f4ce22c637)
+
+![WireShark9](https://github.com/user-attachments/assets/5a5234b2-5c34-42c7-a224-9b17710db76d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
